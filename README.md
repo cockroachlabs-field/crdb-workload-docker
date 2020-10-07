@@ -15,11 +15,11 @@ version of `workload`, newer than what's bundled into the `cockroach` binary.
 
 ## References
 
-https://k8s.vmware.com/kubernetes-up-and-running/
-https://stackoverflow.com/questions/43308319/how-can-i-run-bash-in-a-new-container-of-a-docker-image
-https://stackoverflow.com/questions/31249112/allow-docker-container-to-connect-to-a-local-host-postgres-database
-https://stackoverflow.com/questions/41694329/docker-run-override-entrypoint-with-shell-script-which-accepts-arguments
-https://docs.docker.com/get-started/part3/
+* https://k8s.vmware.com/kubernetes-up-and-running/
+* https://stackoverflow.com/questions/43308319/how-can-i-run-bash-in-a-new-container-of-a-docker-image
+* https://stackoverflow.com/questions/31249112/allow-docker-container-to-connect-to-a-local-host-postgres-database
+* https://stackoverflow.com/questions/41694329/docker-run-override-entrypoint-with-shell-script-which-accepts-arguments
+* https://docs.docker.com/get-started/part3/
 
 ## Caveats
 
